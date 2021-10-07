@@ -1,7 +1,7 @@
 /* Rob Wynne, MSC
- * 
+ *
  * Create a Changes report for an
- * old and new CDISC report 
+ * old and new CDISC report
  */
 
 
@@ -20,7 +20,7 @@ import java.util.TreeMap;
 import java.util.Vector;
 
 public class Diff {
-	
+
 	public HashMap<Codelist, ArrayList<Element>> newMap = new HashMap<Codelist, ArrayList<Element>>();
 	public HashMap<Codelist, ArrayList<Element>> oldMap = new HashMap<Codelist, ArrayList<Element>>();
 	public String releaseDate;
@@ -33,11 +33,12 @@ public class Diff {
 	 * 0 - new report filename
 	 * 1 - old report filename
 	 * 2 - release date
+	 * 3 - outputfile
 	 */
 	public static void main(String args[]) {
 		Diff report = new Diff();
 		if( args.length == 4 ) {
-			System.out.println("Initializing diff report...");			
+			System.out.println("Initializing diff report...");
 			report.init(args[0], args[1], args[2], args[3]);
 			System.out.println("Getting changes...");
 			report.getChanges();
@@ -48,7 +49,7 @@ public class Diff {
 			printHelp();
 		}
 	}
-	
+
 	public static void printHelp() {
 		//TODO: Create batch scripts
 		System.out.println("Unable to start program due to improper input parameters. Program will exit.");
@@ -58,7 +59,7 @@ public class Diff {
 		System.out.println();
 		System.exit(0);
 	}
-	
+
 	private void config_pw(String fileLoc) {
 		try {
 			File file = new File(fileLoc);
@@ -66,19 +67,19 @@ public class Diff {
 		} catch (Exception e) {
 			System.out.println("Error in PrintWriter");
 		}
-	}	
-	
+	}
+
 	public void init(String newReport, String oldReport, String date, String saveDestination) {
 		newMap = parseCDISC(newReport);
 		oldMap = parseCDISC(oldReport);
 		releaseDate = date;
 		config_pw(saveDestination);
 	}
-	
+
 	public void getChanges() {
-		
+
 		for(Codelist cl_new : newMap.keySet()) {
-			boolean found = false;				
+			boolean found = false;
 			for(Codelist cl_old : oldMap.keySet() ) {
 				if( cl_new.getCode().equals(cl_old.getCode()) ) {
 					found = true;
@@ -92,7 +93,7 @@ public class Diff {
 				getChangesForNewCodelist(cl_new, newMap.get(cl_new));
 			}
 		}
-		
+
 		for(Codelist cl_old : oldMap.keySet()) {
 			boolean found = false;
 			for(Codelist cl_new : newMap.keySet()) {
@@ -105,7 +106,7 @@ public class Diff {
 			}
 		}
 	}
-	
+
 	public void getChangesForRemovedCodelist(Codelist oldCodelist, ArrayList<Element> oldElements) {
 		changes.add(new Change(releaseDate, requestCode, "Remove", oldCodelist.getCode(), "CDISC Codelist", oldCodelist.getSubValue(), oldCodelist.getName(), "Retire codelist", oldCodelist.getSubValue(), "- - -"));
 		if( oldElements != null ) {
@@ -117,7 +118,7 @@ public class Diff {
 			System.out.println("No Terms associated with codelist " + oldCodelist.getName());
 		}
 	}
-	
+
 	public void getChangesForNewCodelist(Codelist newCodelist , ArrayList<Element> newElements) {
 		changes.add(new Change(releaseDate, requestCode, "Add", newCodelist.getCode(), "CDISC Codelist", newCodelist.getSubValue(), newCodelist.getName(), "Addition of new codelist", "- - -", newCodelist.getSubValue()));
 		if( newElements != null ) {
@@ -129,19 +130,19 @@ public class Diff {
 			System.out.println("No Terms associated with new codelist "  + newCodelist.getName());
 		}
 	}
-	
+
 	public void compareElements(ArrayList<Element> els_new, ArrayList<Element> els_old, String clShortName ) {
 		TreeMap<String, Element> newElements = new TreeMap<String, Element>();
 		TreeMap<String, Element> oldElements = new TreeMap<String, Element>();
-		
+
 		for(Element el_new : els_new ) {
 			newElements.put(el_new.getCode(), el_new);
 		}
-		
+
 		for(Element el_old : els_old ) {
 			oldElements.put(el_old.getCode(), el_old);
 		}
-		
+
 		for(String newCode : newElements.keySet()) {
 			boolean found = false;
 			for(String oldCode : oldElements.keySet()) {
@@ -154,30 +155,30 @@ public class Diff {
 				getChangesForAddingTermToExistingCodelist(newElements.get(newCode), clShortName);
 			}
 		}
-		
+
 		for(String oldCode : oldElements.keySet()) {
 			boolean found = false;
 			for(String newCode : newElements.keySet()) {
 				if(oldCode.equals(newCode)) {
 					found = true;
-					//no need to diff 
+					//no need to diff
 				}
 			}
 			if( !found ) {
 				getChangesForRemoveTermFromExistingCodelist(oldElements.get(oldCode), clShortName);
 			}
 		}
-				
+
 	}
-	
+
 	public void getChangesForRemoveTermFromExistingCodelist(Element e, String clShortName) {
 		changes.add(new Change(releaseDate, requestCode, "Remove", e.getCode(), "Term", clShortName, e.getName(), "Remove term entirely from codelist", e.getSubValue(), "- - -"));
 	}
-	
+
 	public void getChangesForAddingTermToExistingCodelist(Element e, String clShortName) {
 		changes.add(new Change(releaseDate, requestCode, "Add", e.getCode(), "Term", clShortName, e.getName(), "Add new term to existing codelist", "- - -", e.getSubValue()));
 	}
-	
+
 	public void diffElements( Element newElement, Element oldElement, String clShortName ) {
 		if( !newElement.getName().equals(oldElement.getName()) )
 			changes.add(new Change(releaseDate, requestCode, "Update", newElement.getCode(), "CDISC Codelist Name", clShortName, newElement.getName(), "Update CDISC Codelist Name", oldElement.getName(), newElement.getName()));
@@ -191,7 +192,7 @@ public class Diff {
 		String[] new_syns = newElement.getSynonyms();
 		Arrays.sort(old_syns);
 		Arrays.sort(new_syns);
-		
+
 		//forwards
 		for(int i=0; i < new_syns.length; i++) {
 			boolean found = false;
@@ -205,8 +206,8 @@ public class Diff {
 					changes.add(new Change(releaseDate, requestCode, "Update", newElement.getCode(), "CDISC Synonym", clShortName, newElement.getName(), "Add new CDISC Synonym", "- - -", new_syns[i]));
 				}
 			}
-		}	
-		
+		}
+
 		//and backwards
 		for(int i=0; i < old_syns.length; i++) {
 			boolean found = false;
@@ -217,13 +218,13 @@ public class Diff {
 			}
 			if( !found ) {
 				if( !old_syns[i].equals("") ) {
-					changes.add(new Change(releaseDate, requestCode, "Update", newElement.getCode(), "CDISC Synonym", clShortName, newElement.getName(), "Remove CDISC Synonym", old_syns[i], "- - -"));				
+					changes.add(new Change(releaseDate, requestCode, "Update", newElement.getCode(), "CDISC Synonym", clShortName, newElement.getName(), "Remove CDISC Synonym", old_syns[i], "- - -"));
 				}
 			}
-		}		
-		
+		}
+
 	}
-	
+
 	public void compareCodelists(Codelist cl_new, Codelist cl_old) {
 		if( !cl_new.getExtensible().equals(cl_old.getExtensible()) )
 			changes.add(new Change(releaseDate, requestCode, "Update", cl_new.getCode(), "CDISC Extensible List", cl_new.getSubValue(), cl_new.getName(), "Update CDISC Extensible List", cl_old.getExtensible(), cl_new.getExtensible()));
@@ -239,7 +240,7 @@ public class Diff {
 		String[] new_syns = cl_new.getSynonyms();
 		Arrays.sort(old_syns);
 		Arrays.sort(new_syns);
-		
+
 		//forwards
 		for(int i=0; i < new_syns.length; i++) {
 			boolean found = false;
@@ -251,8 +252,8 @@ public class Diff {
 			if( !found ) {
 				changes.add(new Change(releaseDate, requestCode, "Update", cl_new.getCode(), "CDISC Synonym", cl_new.getSubValue(), cl_new.getName(), "Add new CDISC Synonym", "- - -", new_syns[i]));
 			}
-		}	
-		
+		}
+
 		//and backwards
 		for(int i=0; i < old_syns.length; i++) {
 			boolean found = false;
@@ -264,12 +265,12 @@ public class Diff {
 			if( !found ) {
 				changes.add(new Change(releaseDate, requestCode, "Update", cl_new.getCode(), "CDISC Synonym", cl_new.getSubValue(), cl_new.getName(), "Remove CDISC Synonym", old_syns[i], "- - -"));
 			}
-		}		
+		}
 	}
-	
+
 	public HashMap<Codelist, ArrayList<Element>> parseCDISC(String filename) {
 		HashMap<Codelist, ArrayList<Element>> map = new HashMap<Codelist, ArrayList<Element>>();
-		
+
 		try {
 			Scanner input = new Scanner(new File(filename), "windows-1252");
 			int lineNum = 0;
@@ -277,7 +278,7 @@ public class Diff {
 				lineNum++;
 				String line = input.nextLine().trim();
 				String[] tokens = line.split("\t");
-				
+
 				if( tokens.length == 8 ) {
 					/* 0 - Code
 					 * 1 - Codelist Code
@@ -287,7 +288,7 @@ public class Diff {
 					 * 5 - Synonyms
 					 * 6 - Definition
 					 * 7 - PT
-					 */					
+					 */
 					String code = tokens[0];
 					String codelistCode = tokens[1];
 					String extensible = tokens[2];
@@ -296,7 +297,9 @@ public class Diff {
 					String synonyms = tokens[5];
 					String definition = tokens[6];
 					String pt = tokens[7];
-					if( !extensible.equals("") ) {
+					// KLO, 10062021
+					//if( !extensible.equals("") ) {
+					if( !code.equals("") && codelistCode.equals("")) {
 						Codelist cl = new Codelist(code, extensible, codelistName, subValue, synonyms, definition, pt);
 						map.put(cl, null);
 					}
@@ -332,33 +335,33 @@ public class Diff {
 		} catch (FileNotFoundException e) {
 			System.err.println("Unable to open and parse file " + filename);
 			e.printStackTrace();
-		}			
+		}
 		return map;
 	}
-	
+
 	public void print() {
-		
+
 		Collections.sort(changes, new Comparator<Change>() {
 			public int compare(final Change change1, final Change change2) {
 			    return change1.getNoCCode() - change2.getNoCCode();
-			}	
+			}
 		});
-		
+
 		Collections.sort(changes, new Comparator<Change>() {
 			public int compare(final Change change1, final Change change2) {
 			    return change1.getShortName().compareTo(change2.getShortName());
-			}	
-		});		
-		
-		pw.println("Release Date" + "\t" + "Request Code" + "\t" + "Change Type" + "\t" + 
-				"NCI Code" + "\t" + "CDISC Term Type" + "\t" + "CDISC Codelist (Short Name)" + 
+			}
+		});
+
+		pw.println("Release Date" + "\t" + "Request Code" + "\t" + "Change Type" + "\t" +
+				"NCI Code" + "\t" + "CDISC Term Type" + "\t" + "CDISC Codelist (Short Name)" +
 				"\t" + "CDISC Codelist (Long Name)" + "\t" + "Change Summary" + "\t" + "Original" + "\t" + "New" +
-			  	"\t" + "Change Implementation Instructions");		
-				
+			  	"\t" + "Change Implementation Instructions");
+
 		for(Change c : changes ) {
 			pw.print(c.toString());
 		}
 		pw.close();
 	}
-	
+
 }
