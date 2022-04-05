@@ -1,0 +1,813 @@
+Release Date	Request Code	Change Type	NCI Code	CDISC Term Type	CDISC Codelist (Short Name)	CDISC Codelist (Long Name)	Change Summary	Original	New	Change Implementation Instructions
+2022-03-25		Add	C51946	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Erythrocytes
+2022-03-25		Add	C51951	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Platelets
+2022-03-25		Add	C63321	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Neutrophils
+2022-03-25		Add	C64550	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Eosinophils
+2022-03-25		Add	C64604	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Eosinophils/Leukocytes
+2022-03-25		Add	C64605	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Epithelial Cells
+2022-03-25		Add	C74619	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Plasmablasts
+2022-03-25		Add	C74798	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Macrophages
+2022-03-25		Add	C98720	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Eosinophils/Total Cells
+2022-03-25		Add	C98751	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Lymphocytes/Total Cells
+2022-03-25		Add	C98867	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Megakaryocytes/Total Cells
+2022-03-25		Add	C98872	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Monocytes/Total Cells
+2022-03-25		Add	C111244	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Macrophages/Total Cells
+2022-03-25		Add	C111246	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Mast Cells
+2022-03-25		Add	C111247	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Mast Cells/Total Cells
+2022-03-25		Add	C123460	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Macrophages/Leukocytes
+2022-03-25		Add	C128974	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Plasma Cells
+2022-03-25		Add	C130161	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Epithelial Cells/Total Cells
+2022-03-25		Add	C147396	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Monocytes and Macrophages/Leukocytes
+2022-03-25		Add	C150840	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Eosinophils/Nucleated Cells
+2022-03-25		Add	C154722	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Megakaryocytes/Leukocytes
+2022-03-25		Update	C181265	CDISC Definition	CPTEST	Cell Phenotyping Test Name	Update CDISC Definition	A relative measurement (ratio or percentage) of a subpopulation of naive B-lymphocytes to B-lymphocytes in a biological specimen.	A relative measurement (ratio or percentage) of a subpopulation of B-lymphocytes to B-lymphocytes in a biological specimen.
+2022-03-25		Update	C181265	CDISC Synonym	CPTEST	Cell Phenotyping Test Name	Add new CDISC Synonym	- - -	B-Lymphocyte Sub-Population/B-Lymphocyte
+2022-03-25		Update	C181265	CDISC Synonym	CPTEST	Cell Phenotyping Test Name	Remove CDISC Synonym	B Cell, Naive Subpopulation/B Cell	- - -
+2022-03-25		Update	C181265	CDISC Synonym	CPTEST	Cell Phenotyping Test Name	Remove CDISC Synonym	B-Lymphocyte, Naive Subpopulation/B-Lymphocyte	- - -
+2022-03-25		Update	C181265	CDISC Synonym	CPTEST	Cell Phenotyping Test Name	Remove CDISC Synonym	BLym Naive Sub/Blym	- - -
+2022-03-25		Update	C181265	CDISC Synonym	CPTEST	Cell Phenotyping Test Name	Remove CDISC Synonym	Lymphocyte, Naive Subset/B-Lymphocyte	- - -
+2022-03-25		Update	C184428	NCI Preferred Term	CPTEST	Cell Phenotyping Test Name	Update NCI Preferred Term	Helper Regulatory T-Lymphocyte Subpopulation Count	Helper Regulatory T-Lymphocyte Count
+2022-03-25		Add	C185904	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	MDSC
+2022-03-25		Add	C185906	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	MDSC Gran
+2022-03-25		Add	C185907	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	MDSC Mono
+2022-03-25		Add	C185908	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Eff Mem
+2022-03-25		Add	C185909	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx AB
+2022-03-25		Add	C185910	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx GD
+2022-03-25		Add	C185911	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Cen Mem
+2022-03-25		Add	C185912	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Eff
+2022-03-25		Add	C185913	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Eff Mem
+2022-03-25		Add	C185914	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Naive
+2022-03-25		Add	C185915	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Reg
+2022-03-25		Add	C185916	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Term Mem
+2022-03-25		Add	C185917	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 1
+2022-03-25		Add	C185918	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 17
+2022-03-25		Add	C185919	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 17.1
+2022-03-25		Add	C185920	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 2
+2022-03-25		Add	C185921	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 22
+2022-03-25		Add	C185922	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 9
+2022-03-25		Add	C185923	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Cen Mem
+2022-03-25		Add	C185924	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Eff
+2022-03-25		Add	C185925	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Eff Mem
+2022-03-25		Add	C185926	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Mem
+2022-03-25		Add	C185927	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Naive
+2022-03-25		Add	C185928	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Reg Sub
+2022-03-25		Add	C185929	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Reg Eff
+2022-03-25		Add	C185930	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Reg Mem
+2022-03-25		Add	C185931	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Term Mem
+2022-03-25		Add	C185964	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	BLym Naive Mat/BLym
+2022-03-25		Add	C185965	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	BLym Mem/BLym
+2022-03-25		Add	C185966	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	BLym Trans/BLym
+2022-03-25		Add	C185967	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Endothelial Cells
+2022-03-25		Add	C185968	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Fibroblasts
+2022-03-25		Add	C185969	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Macrophages M1
+2022-03-25		Add	C185970	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Macrophages M2
+2022-03-25		Add	C185971	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Macrophages Sub
+2022-03-25		Add	C185972	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	MDSC Gran Sub
+2022-03-25		Add	C185973	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	MDSC Mono Sub
+2022-03-25		Add	C185974	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	MDSC Sub
+2022-03-25		Add	C185975	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	NK TLym Sub
+2022-03-25		Add	C185976	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Plasmablasts/BLym
+2022-03-25		Add	C185977	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Plasma Cells Sub
+2022-03-25		Add	C185978	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	Platelets Sub
+2022-03-25		Add	C185979	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym AB
+2022-03-25		Add	C185980	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym AB Sub
+2022-03-25		Add	C185981	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx AB Sub
+2022-03-25		Add	C185982	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Cen Mem Sub
+2022-03-25		Add	C185983	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Eff Mem Sub
+2022-03-25		Add	C185984	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Eff Sub
+2022-03-25		Add	C185985	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx GD Sub
+2022-03-25		Add	C185987	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Naive Sub
+2022-03-25		Add	C185988	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Reg Sub
+2022-03-25		Add	C185989	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cytx Term Mem Sub
+2022-03-25		Add	C185990	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Eff Mem Sub
+2022-03-25		Add	C185991	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym GD
+2022-03-25		Add	C185992	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym GD Sub
+2022-03-25		Add	C185993	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 17.1 Sub
+2022-03-25		Add	C185994	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 17 Sub
+2022-03-25		Add	C185995	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 1 Sub
+2022-03-25		Add	C185996	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 22 Sub
+2022-03-25		Add	C185997	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 2 Sub
+2022-03-25		Add	C185998	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help 9 Sub
+2022-03-25		Add	C185999	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help AB
+2022-03-25		Add	C186000	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help AB Sub
+2022-03-25		Add	C186001	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Cen Mem Sub
+2022-03-25		Add	C186002	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Eff Mem Sub
+2022-03-25		Add	C186003	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Eff Sub
+2022-03-25		Add	C186004	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Foll
+2022-03-25		Add	C186005	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help GD
+2022-03-25		Add	C186006	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help GD Sub
+2022-03-25		Add	C186007	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Mem Sub
+2022-03-25		Add	C186008	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Naive Sub
+2022-03-25		Add	C186009	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Reg Eff Sub
+2022-03-25		Add	C186010	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Reg Mem Sub
+2022-03-25		Add	C186011	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Help Term Mem Sub
+2022-03-25		Add	C186012	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Naive
+2022-03-25		Add	C186013	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Reg
+2022-03-25		Add	C186268	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Cen Mem
+2022-03-25		Add	C186269	Term	CPTEST	Cell Phenotyping Test Name	Add new term to existing codelist	- - -	TLym Term Mem
+2022-03-25		Add	C51946	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	RBC
+2022-03-25		Add	C51951	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	PLAT
+2022-03-25		Add	C63321	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	NEUT
+2022-03-25		Add	C64550	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	EOS
+2022-03-25		Add	C64604	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	EOSLE
+2022-03-25		Add	C64605	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	EPIC
+2022-03-25		Add	C74619	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	PB
+2022-03-25		Add	C74798	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MCPHG
+2022-03-25		Add	C98720	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	EOSCE
+2022-03-25		Add	C98751	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	LYMCE
+2022-03-25		Add	C98867	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	KRCYMGCE
+2022-03-25		Add	C98872	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MONOCE
+2022-03-25		Add	C111244	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MCPHGCE
+2022-03-25		Add	C111246	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MASTCE
+2022-03-25		Add	C111247	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MASTCECE
+2022-03-25		Add	C123460	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MCPHGLE
+2022-03-25		Add	C128974	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	PC
+2022-03-25		Add	C130161	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	EPICCE
+2022-03-25		Add	C147396	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MONMPHLE
+2022-03-25		Add	C150840	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	EOSNUCCE
+2022-03-25		Add	C154722	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	KRCYMGLE
+2022-03-25		Update	C181265	CDISC Definition	CPTESTCD	Cell Phenotyping Test Code	Update CDISC Definition	A relative measurement (ratio or percentage) of a subpopulation of naive B-lymphocytes to B-lymphocytes in a biological specimen.	A relative measurement (ratio or percentage) of a subpopulation of B-lymphocytes to B-lymphocytes in a biological specimen.
+2022-03-25		Update	C181265	CDISC Synonym	CPTESTCD	Cell Phenotyping Test Code	Add new CDISC Synonym	- - -	B-Lymphocyte Sub-Population/B-Lymphocyte
+2022-03-25		Update	C181265	CDISC Synonym	CPTESTCD	Cell Phenotyping Test Code	Remove CDISC Synonym	B Cell, Naive Subpopulation/B Cell	- - -
+2022-03-25		Update	C181265	CDISC Synonym	CPTESTCD	Cell Phenotyping Test Code	Remove CDISC Synonym	B-Lymphocyte, Naive Subpopulation/B-Lymphocyte	- - -
+2022-03-25		Update	C181265	CDISC Synonym	CPTESTCD	Cell Phenotyping Test Code	Remove CDISC Synonym	BLym Naive Sub/Blym	- - -
+2022-03-25		Update	C181265	CDISC Synonym	CPTESTCD	Cell Phenotyping Test Code	Remove CDISC Synonym	Lymphocyte, Naive Subset/B-Lymphocyte	- - -
+2022-03-25		Update	C184428	NCI Preferred Term	CPTESTCD	Cell Phenotyping Test Code	Update NCI Preferred Term	Helper Regulatory T-Lymphocyte Subpopulation Count	Helper Regulatory T-Lymphocyte Count
+2022-03-25		Add	C185904	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MDSC
+2022-03-25		Add	C185906	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MDSCG
+2022-03-25		Add	C185907	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MDSCM
+2022-03-25		Add	C185908	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLEM
+2022-03-25		Add	C185909	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCAB
+2022-03-25		Add	C185910	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCGD
+2022-03-25		Add	C185911	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCCM
+2022-03-25		Add	C185912	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCE
+2022-03-25		Add	C185913	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCEM
+2022-03-25		Add	C185914	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCN
+2022-03-25		Add	C185915	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCR
+2022-03-25		Add	C185916	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCTM
+2022-03-25		Add	C185917	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH1
+2022-03-25		Add	C185918	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH17
+2022-03-25		Add	C185919	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH17_1
+2022-03-25		Add	C185920	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH2
+2022-03-25		Add	C185921	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH22
+2022-03-25		Add	C185922	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH9
+2022-03-25		Add	C185923	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHCM
+2022-03-25		Add	C185924	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHE
+2022-03-25		Add	C185925	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHEM
+2022-03-25		Add	C185926	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHM
+2022-03-25		Add	C185927	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHN
+2022-03-25		Add	C185928	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHRS
+2022-03-25		Add	C185929	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHRE
+2022-03-25		Add	C185930	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHRM
+2022-03-25		Add	C185931	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHTM
+2022-03-25		Add	C185964	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	BLNMABL
+2022-03-25		Add	C185965	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	BLYMBLY
+2022-03-25		Add	C185966	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	BLYTBLY
+2022-03-25		Add	C185967	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	ENDO
+2022-03-25		Add	C185968	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	FIBB
+2022-03-25		Add	C185969	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MCPHGM1
+2022-03-25		Add	C185970	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MCPHGM2
+2022-03-25		Add	C185971	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MCPHGS
+2022-03-25		Add	C185972	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MDSCGS
+2022-03-25		Add	C185973	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MDSCMS
+2022-03-25		Add	C185974	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	MDSCS
+2022-03-25		Add	C185975	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	NKTS
+2022-03-25		Add	C185976	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	PBBLY
+2022-03-25		Add	C185977	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	PCS
+2022-03-25		Add	C185978	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	PLATS
+2022-03-25		Add	C185979	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLAB
+2022-03-25		Add	C185980	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLABS
+2022-03-25		Add	C185981	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCABS
+2022-03-25		Add	C185982	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCCMS
+2022-03-25		Add	C185983	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCEMS
+2022-03-25		Add	C185984	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCES
+2022-03-25		Add	C185985	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCGDS
+2022-03-25		Add	C185987	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCNS
+2022-03-25		Add	C185988	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCRS
+2022-03-25		Add	C185989	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCTMS
+2022-03-25		Add	C185990	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLEMS
+2022-03-25		Add	C185991	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLGD
+2022-03-25		Add	C185992	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLGDS
+2022-03-25		Add	C185993	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH17_1S
+2022-03-25		Add	C185994	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH17S
+2022-03-25		Add	C185995	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH1S
+2022-03-25		Add	C185996	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH22S
+2022-03-25		Add	C185997	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH2S
+2022-03-25		Add	C185998	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLH9S
+2022-03-25		Add	C185999	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHAB
+2022-03-25		Add	C186000	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHABS
+2022-03-25		Add	C186001	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHCMS
+2022-03-25		Add	C186002	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHEMS
+2022-03-25		Add	C186003	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHES
+2022-03-25		Add	C186004	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHF
+2022-03-25		Add	C186005	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHGD
+2022-03-25		Add	C186006	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHGDS
+2022-03-25		Add	C186007	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHMS
+2022-03-25		Add	C186008	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHNS
+2022-03-25		Add	C186009	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHRES
+2022-03-25		Add	C186010	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHRMS
+2022-03-25		Add	C186011	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLHTMS
+2022-03-25		Add	C186012	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLN
+2022-03-25		Add	C186013	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLR
+2022-03-25		Add	C186268	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLCNM
+2022-03-25		Add	C186269	Term	CPTESTCD	Cell Phenotyping Test Code	Add new term to existing codelist	- - -	TLTM
+2022-03-25		Update	C3390	NCI Preferred Term	CVFARS	Cardiovascular Findings About Results	Update NCI Preferred Term	Cerebrovascular Accident	Stroke
+2022-03-25		Add	C186015	Term	D1FATS	Type 1 Diabetes Findings About Test Name	Add new term to existing codelist	- - -	Dietary Beta-Cryptoxanthin
+2022-03-25		Add	C186016	Term	D1FATS	Type 1 Diabetes Findings About Test Name	Add new term to existing codelist	- - -	Dietary Folate Equivalents
+2022-03-25		Add	C186017	Term	D1FATS	Type 1 Diabetes Findings About Test Name	Add new term to existing codelist	- - -	Dietary Food Folate
+2022-03-25		Add	C186018	Term	D1FATS	Type 1 Diabetes Findings About Test Name	Add new term to existing codelist	- - -	Dietary Folic Acid
+2022-03-25		Add	C186019	Term	D1FATS	Type 1 Diabetes Findings About Test Name	Add new term to existing codelist	- - -	Dietary Total Folate
+2022-03-25		Add	C186015	Term	D1FATSCD	Type 1 Diabetes Findings About Test Code	Add new term to existing codelist	- - -	DCRXANB
+2022-03-25		Add	C186016	Term	D1FATSCD	Type 1 Diabetes Findings About Test Code	Add new term to existing codelist	- - -	DFEQ
+2022-03-25		Add	C186017	Term	D1FATSCD	Type 1 Diabetes Findings About Test Code	Add new term to existing codelist	- - -	DFOLFD
+2022-03-25		Add	C186018	Term	D1FATSCD	Type 1 Diabetes Findings About Test Code	Add new term to existing codelist	- - -	DFOLIC
+2022-03-25		Add	C186019	Term	D1FATSCD	Type 1 Diabetes Findings About Test Code	Add new term to existing codelist	- - -	DFOLTOT
+2022-03-25		Add	C186020	Term	DIR	Directionality	Add new term to existing codelist	- - -	CRANIOCAUDAL
+2022-03-25		Add	C186021	Term	DIR	Directionality	Add new term to existing codelist	- - -	SEPTAL
+2022-03-25		Update	C42872	CDISC Definition	EPOCH	Epoch	Update CDISC Definition	A period of time during a clinical study when a participant is taken off of a study drug or other medication in order to eliminate the effects of the treatment.	A period of time during a study when a subject is taken off of the investigational therapy or treatment in order to reduce the amount of investigational product within the body.
+2022-03-25		Update	C101526	CDISC Definition	EPOCH	Epoch	Update CDISC Definition	A period in a clinical study during which subjects receive investigational product.	A period in a study during which subjects are receiving investigational therapy or treatment.
+2022-03-25		Add	C186015	Term	FATEST	Findings About Test Name	Add new term to existing codelist	- - -	Dietary Beta-Cryptoxanthin
+2022-03-25		Add	C186016	Term	FATEST	Findings About Test Name	Add new term to existing codelist	- - -	Dietary Folate Equivalents
+2022-03-25		Add	C186017	Term	FATEST	Findings About Test Name	Add new term to existing codelist	- - -	Dietary Food Folate
+2022-03-25		Add	C186018	Term	FATEST	Findings About Test Name	Add new term to existing codelist	- - -	Dietary Folic Acid
+2022-03-25		Add	C186019	Term	FATEST	Findings About Test Name	Add new term to existing codelist	- - -	Dietary Total Folate
+2022-03-25		Add	C186015	Term	FATESTCD	Findings About Test Code	Add new term to existing codelist	- - -	DCRXANB
+2022-03-25		Add	C186016	Term	FATESTCD	Findings About Test Code	Add new term to existing codelist	- - -	DFEQ
+2022-03-25		Add	C186017	Term	FATESTCD	Findings About Test Code	Add new term to existing codelist	- - -	DFOLFD
+2022-03-25		Add	C186018	Term	FATESTCD	Findings About Test Code	Add new term to existing codelist	- - -	DFOLIC
+2022-03-25		Add	C186019	Term	FATESTCD	Findings About Test Code	Add new term to existing codelist	- - -	DFOLTOT
+2022-03-25		Update	C181344	NCI Preferred Term	GFTSDTL	Genomic Findings Test Detail	Update NCI Preferred Term	Predicated Coding Sequence Change	Predicted Coding Sequence Change
+2022-03-25		Update	C74853	CDISC Synonym	LBTEST	Laboratory Test Name	Add new CDISC Synonym	- - -	Androstanolone
+2022-03-25		Add	C81251	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Galactose-1-Phos Uridylyltransferase
+2022-03-25		Add	C81281	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Phenylalanine/Tyrosine
+2022-03-25		Add	C81308	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Galactose
+2022-03-25		Update	C127628	CDISC Synonym	LBTEST	Laboratory Test Name	Add new CDISC Synonym	- - -	Erythroid Precursors/Total Cells
+2022-03-25		Add	C141271	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Neutrophils/Lymphocytes
+2022-03-25		Update	C156509	CDISC Synonym	LBTEST	Laboratory Test Name	Add new CDISC Synonym	- - -	NUMA1
+2022-03-25		Update	C156509	CDISC Synonym	LBTEST	Laboratory Test Name	Add new CDISC Synonym	- - -	Nuclear Mitotic Apparatus Protein 1
+2022-03-25		Add	C186022	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Alpha-1 Microglobulin Excretion Rate
+2022-03-25		Add	C186023	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Amitriptyline
+2022-03-25		Add	C186024	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Ammonium
+2022-03-25		Add	C186025	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Ammonium/Creatinine
+2022-03-25		Add	C186026	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Androsterone
+2022-03-25		Add	C186027	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	3-Alpha-Androstanediol Glucuronide
+2022-03-25		Add	C186028	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Beta-Hydroxybutyrate/Acetoacetate
+2022-03-25		Add	C186029	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Complement C1q
+2022-03-25		Add	C186030	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Cyclic Adenosine Monophosphate/Creat
+2022-03-25		Add	C186031	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Clonazepam and/or Metabolites
+2022-03-25		Add	C186032	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Alpha Cortol
+2022-03-25		Add	C186033	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Alpha Cortolone
+2022-03-25		Add	C186034	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Carotene
+2022-03-25		Add	C186035	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Pathologic Casts
+2022-03-25		Add	C186036	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Circulating Tumor Cells, Apoptotic
+2022-03-25		Add	C186037	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Catecholamines
+2022-03-25		Add	C186038	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Circulating Tumor Cells, Traditional
+2022-03-25		Add	C186039	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Chemokine (C-X-C Motif) Ligand 2
+2022-03-25		Add	C186040	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Desipramine
+2022-03-25		Add	C186041	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Doxepin and/or Metabolites
+2022-03-25		Add	C186042	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Deoxycorticosteroids
+2022-03-25		Add	C186043	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Deoxycortisol
+2022-03-25		Add	C186044	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	21-Deoxycortisol
+2022-03-25		Add	C186045	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Deoxycorticosterone
+2022-03-25		Add	C186046	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	21-Deoxycorticosterone
+2022-03-25		Add	C186047	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Erythroferrone
+2022-03-25		Add	C186048	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Flunitrazepam and/or Metabolites
+2022-03-25		Add	C186049	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Glycated Ferritin
+2022-03-25		Add	C186050	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Glycated Ferritin/Ferritin
+2022-03-25		Add	C186051	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Flurazepam and/or Metabolites
+2022-03-25		Add	C186052	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Galactose-1-Phosphate
+2022-03-25		Add	C186053	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Galectin-3 Binding Protein
+2022-03-25		Add	C186054	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Glucose, Radiolabeled/Glucose
+2022-03-25		Add	C186055	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Granulocytes Band Form
+2022-03-25		Add	C186056	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Granulocytes Segmented
+2022-03-25		Add	C186057	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Growth Regulated Oncogene
+2022-03-25		Add	C186058	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	6a OH-tetrahydro-11-DeH-Corticosterone
+2022-03-25		Add	C186059	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	6a OH-tetrahydro-11-Deoxycortisol
+2022-03-25		Add	C186060	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Hydrogen+Methane
+2022-03-25		Add	C186061	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	HLA DQ2 Antigen
+2022-03-25		Add	C186062	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	HLA DQ8 Antigen
+2022-03-25		Add	C186063	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Hydroxyandrostenedione
+2022-03-25		Add	C186064	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Hydroxyandrosterone
+2022-03-25		Add	C186065	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	17-Hydroxycorticosteroids
+2022-03-25		Add	C186066	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	18-Hydroxycortisol
+2022-03-25		Add	C186067	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	18-Hydroxycorticosterone
+2022-03-25		Add	C186068	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	18-Hydroxydeoxycorticosterone
+2022-03-25		Add	C186069	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Hydroxyetiocholanolone
+2022-03-25		Add	C186070	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	17-Hydroxypregnenolone
+2022-03-25		Add	C186071	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Imipramine
+2022-03-25		Add	C186072	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Insulin, Intact
+2022-03-25		Add	C186073	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Ketoandrosterone
+2022-03-25		Add	C186074	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	11-Ketoetiocholanolone
+2022-03-25		Add	C186075	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	17-Ketogenic steroids
+2022-03-25		Add	C186076	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	17-Ketosteroids
+2022-03-25		Add	C186077	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Lactose
+2022-03-25		Add	C186078	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Lymphoma Cells/Total Cells
+2022-03-25		Add	C186079	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Lymphocytes/Neutrophils
+2022-03-25		Add	C186080	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Methane
+2022-03-25		Add	C186081	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Monoclonal Prot Immunoglobulin Isotype
+2022-03-25		Add	C186082	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	3-Methoxytyramine
+2022-03-25		Add	C186083	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	3-Methoxytyramine, Free
+2022-03-25		Add	C186084	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Myeloid Progenitor Cells/Total Cells
+2022-03-25		Add	C186085	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Non-HDL Cholesterol/LDL Cholesterol
+2022-03-25		Add	C186086	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Normetanephrine, Free
+2022-03-25		Add	C186087	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Nortriptyline
+2022-03-25		Add	C186088	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Norpropoxyphene
+2022-03-25		Add	C186089	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Nitrazepam and/or Metabolites
+2022-03-25		Add	C186090	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Para-Aminobenzoate
+2022-03-25		Add	C186091	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Prprot Cnvrtase Subtilisin-Kexin 9, Free
+2022-03-25		Add	C186092	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Pregnanediol
+2022-03-25		Add	C186093	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Serum-Ascites Albumin Gradient
+2022-03-25		Add	C186094	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Schistocytes/Erythrocytes
+2022-03-25		Add	C186095	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Succinylacetone
+2022-03-25		Add	C186096	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Soluble Intercell Adhesion Molecule 4
+2022-03-25		Add	C186097	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	5-Alpha Tetrahydrocortisol
+2022-03-25		Add	C186098	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Xylose/Xylose Dose
+2022-03-25		Add	C186099	Term	LBTEST	Laboratory Test Name	Add new term to existing codelist	- - -	Xylose
+2022-03-25		Update	C74853	CDISC Synonym	LBTESTCD	Laboratory Test Code	Add new CDISC Synonym	- - -	Androstanolone
+2022-03-25		Add	C81251	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GAL1PUT
+2022-03-25		Add	C81281	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	PHETYR
+2022-03-25		Add	C81308	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GAL
+2022-03-25		Update	C127628	CDISC Synonym	LBTESTCD	Laboratory Test Code	Add new CDISC Synonym	- - -	Erythroid Precursors/Total Cells
+2022-03-25		Add	C141271	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	NEUTLY
+2022-03-25		Update	C156509	CDISC Synonym	LBTESTCD	Laboratory Test Code	Add new CDISC Synonym	- - -	NUMA1
+2022-03-25		Update	C156509	CDISC Synonym	LBTESTCD	Laboratory Test Code	Add new CDISC Synonym	- - -	Nuclear Mitotic Apparatus Protein 1
+2022-03-25		Add	C186022	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	A1MCGEXR
+2022-03-25		Add	C186023	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	AMITRPTL
+2022-03-25		Add	C186024	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	AMNM
+2022-03-25		Add	C186025	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	AMNMCRT
+2022-03-25		Add	C186026	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	ANDSTRN
+2022-03-25		Add	C186027	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	ASTDLG3A
+2022-03-25		Add	C186028	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	BHBACTAC
+2022-03-25		Add	C186029	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	C1Q
+2022-03-25		Add	C186030	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CAMPCRT
+2022-03-25		Add	C186031	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CLZPMAOM
+2022-03-25		Add	C186032	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CORTOLA
+2022-03-25		Add	C186033	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CORTOLNA
+2022-03-25		Add	C186034	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CRTN
+2022-03-25		Add	C186035	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CSPATH
+2022-03-25		Add	C186036	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CTCAPOP
+2022-03-25		Add	C186037	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CTCHLMN
+2022-03-25		Add	C186038	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CTCTRAD
+2022-03-25		Add	C186039	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	CXCL2
+2022-03-25		Add	C186040	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DESIPRMN
+2022-03-25		Add	C186041	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DOXPNAOM
+2022-03-25		Add	C186042	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DXCSD11
+2022-03-25		Add	C186043	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DXCSL11
+2022-03-25		Add	C186044	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DXCSL21
+2022-03-25		Add	C186045	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DXCSN11
+2022-03-25		Add	C186046	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	DXCSN21
+2022-03-25		Add	C186047	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	ERFE
+2022-03-25		Add	C186048	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	FNZPMAOM
+2022-03-25		Add	C186049	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	FRNG
+2022-03-25		Add	C186050	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	FRNGFRN
+2022-03-25		Add	C186051	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	FRZPMAOM
+2022-03-25		Add	C186052	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GAL1PHOS
+2022-03-25		Add	C186053	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GLCTN3BP
+2022-03-25		Add	C186054	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GLURLGLU
+2022-03-25		Add	C186055	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GRANB
+2022-03-25		Add	C186056	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GRANSG
+2022-03-25		Add	C186057	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	GRO
+2022-03-25		Add	C186058	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	H411DC6A
+2022-03-25		Add	C186059	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	H411DS6A
+2022-03-25		Add	C186060	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HCH4
+2022-03-25		Add	C186061	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HLADQ2
+2022-03-25		Add	C186062	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HLADQ8
+2022-03-25		Add	C186063	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXANSD11
+2022-03-25		Add	C186064	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXANST11
+2022-03-25		Add	C186065	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXCSD17
+2022-03-25		Add	C186066	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXCSL18
+2022-03-25		Add	C186067	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXCSN18
+2022-03-25		Add	C186068	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXDX 18
+2022-03-25		Add	C186069	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXETCL11
+2022-03-25		Add	C186070	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	HXPRGN17
+2022-03-25		Add	C186071	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	IMIPRMN
+2022-03-25		Add	C186072	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	INSULINI
+2022-03-25		Add	C186073	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	KTANST11
+2022-03-25		Add	C186074	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	KTETCL11
+2022-03-25		Add	C186075	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	KTGSTR17
+2022-03-25		Add	C186076	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	KTSTR17
+2022-03-25		Add	C186077	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	LACTOSE
+2022-03-25		Add	C186078	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	LYMMCECE
+2022-03-25		Add	C186079	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	LYMNE
+2022-03-25		Add	C186080	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	METHANE
+2022-03-25		Add	C186081	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	MPIGISO
+2022-03-25		Add	C186082	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	MTHXT3
+2022-03-25		Add	C186083	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	MTHXT3FR
+2022-03-25		Add	C186084	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	MYPCCE
+2022-03-25		Add	C186085	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	NHDLLDL
+2022-03-25		Add	C186086	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	NORMETFR
+2022-03-25		Add	C186087	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	NORTRPTL
+2022-03-25		Add	C186088	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	NRPROPOX
+2022-03-25		Add	C186089	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	NTZPMAOM
+2022-03-25		Add	C186090	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	PABA
+2022-03-25		Add	C186091	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	PCSK9FR
+2022-03-25		Add	C186092	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	PRGNNDL
+2022-03-25		Add	C186093	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	SAAG
+2022-03-25		Add	C186094	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	SCHISRBC
+2022-03-25		Add	C186095	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	SCNYLACT
+2022-03-25		Add	C186096	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	SICAM4
+2022-03-25		Add	C186097	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	THDCSL5A
+2022-03-25		Add	C186098	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	XLSXLSD
+2022-03-25		Add	C186099	Term	LBTESTCD	Laboratory Test Code	Add new term to existing codelist	- - -	XYLOSE
+2022-03-25		Add	C12228	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	BASE OF THE TONGUE
+2022-03-25		Add	C12232	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PALATINE UVULA
+2022-03-25		Update	C12292	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Pinna
+2022-03-25		Add	C12318	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	BROAD LIGAMENT
+2022-03-25		Add	C12373	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	CARTILAGE
+2022-03-25		Add	C12473	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SYNOVIUM
+2022-03-25		Add	C12494	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	CLIVUS
+2022-03-25		Add	C12684	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	BRONCHIOLE
+2022-03-25		Add	C12698	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	COMMON BILE DUCT
+2022-03-25		Update	C12751	CDISC Definition	LOC	Anatomical Location	Update CDISC Definition	Any of the five bones between the wrist and the fingers that form the skeleton of the palm. (NCI)	Any of the bones between the carpus and the phalanges.
+2022-03-25		Update	C12752	CDISC Definition	LOC	Anatomical Location	Update CDISC Definition	A bone belonging to the middle part of the foot located between toes and ankle. There are 5 metatarsal bones and they are numbered from the medial side. (NCI)	Any of the bones between the tarsus and the phalanges.
+2022-03-25		Add	C12757	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	OCCIPITAL BONE
+2022-03-25		Add	C12766	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PARIETAL BONE
+2022-03-25		Add	C12790	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SPHENOID BONE
+2022-03-25		Update	C12815	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Caudal Vena Cava
+2022-03-25		Update	C12815	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Posterior Vena Cava
+2022-03-25		Update	C12816	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Anterior Vena Cava
+2022-03-25		Update	C12816	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Cranial Vena Cava
+2022-03-25		Add	C13011	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	AMPULLA OF VATER
+2022-03-25		Add	C13039	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	UTERINE WALL
+2022-03-25		Add	C13045	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	TENDON
+2022-03-25		Add	C13074	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	MASSETER MUSCLE
+2022-03-25		Add	C13188	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	AMNIOTIC FLUID
+2022-03-25		Add	C13190	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	AQUEOUS HUMOR
+2022-03-25		Add	C25264	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	CARINA
+2022-03-25		Add	C32069	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ANAL REGION
+2022-03-25		Add	C32097	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ANTERIOR MEDIASTINAL LYMPH NODE
+2022-03-25		Add	C32164	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	AUDITORY OSSICLE
+2022-03-25		Add	C32307	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	CHORDAE TENDINEAE
+2022-03-25		Add	C32455	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	DESCENDING AORTA
+2022-03-25		Add	C32538	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ESOPHAGEAL MUCOSA
+2022-03-25		Add	C32575	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EYEBROW
+2022-03-25		Add	C32621	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FONTANELLE
+2022-03-25		Add	C32635	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FRONTAL BONE
+2022-03-25		Add	C32656	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	GASTRIC MUCOSA
+2022-03-25		Add	C32719	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	HEAD OF THE FIBULA
+2022-03-25		Add	C32797	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	INFRASPINATUS MUSCLE
+2022-03-25		Update	C32818	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Atrial Septum
+2022-03-25		Update	C32874	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Ventricular Septum
+2022-03-25		Add	C33049	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FORESKIN
+2022-03-25		Add	C33105	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	MESOTHELIUM
+2022-03-25		Update	C33157	CDISC Definition	LOC	Anatomical Location	Update CDISC Definition	One of two small oblong bones placed side by side at the middle and upper part of the face. (NCI)	A bone of the skull forming the middle and upper part of the face.
+2022-03-25		Add	C33259	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PAPILLARY MUSCLE
+2022-03-25		Add	C33460	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	RENAL PAPILLA
+2022-03-25		Add	C33462	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	RENAL VEIN
+2022-03-25		Add	C33540	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SERRATUS ANTERIOR MUSCLE
+2022-03-25		Add	C33568	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SMALL INTESTINAL MUCOSA
+2022-03-25		Add	C33827	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	UMBILICAL ARTERY
+2022-03-25		Add	C33830	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	UMBILICAL VEIN
+2022-03-25		Add	C34241	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	HEART, FORAMEN OVALE
+2022-03-25		Add	C48824	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	LUMBOSACRAL SPINE
+2022-03-25		Add	C49478	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	INTESTINAL WALL
+2022-03-25		Update	C52888	CDISC Submission Value	LOC	Anatomical Location	Update CDISC Submission Value	ADDUCTOR POLLICIS MUSCLE	ABDUCTOR POLLICIS LONGUS MUSCLE
+2022-03-25		Add	C52914	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR CARPI ULNARIS MUSCLE
+2022-03-25		Add	C52916	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR DIGITORUM MUSCLE
+2022-03-25		Add	C52918	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR DIGITORUM LONGUS MUSCLE
+2022-03-25		Add	C52928	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	GENIOGLOSSUS MUSCLE
+2022-03-25		Add	C52933	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	GLUTEUS MEDIUS
+2022-03-25		Add	C53072	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	TENSOR FASCIA LATA MUSCLE
+2022-03-25		Add	C53171	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PERONEUS LONGUS MUSCLE
+2022-03-25		Add	C54155	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	RETRO-ORBITAL REGION
+2022-03-25		Add	C66852	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	CAROTID BODY
+2022-03-25		Add	C77644	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PERITONEAL LYMPH NODE
+2022-03-25		Add	C77675	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SURAL NERVE
+2022-03-25		Add	C89749	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ALVEOLAR PROCESS
+2022-03-25		Add	C89780	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SCALENE LYMPH NODE
+2022-03-25		Update	C93179	CDISC Submission Value	LOC	Anatomical Location	Update CDISC Submission Value	KIDNEY, UPPER LOBE	KIDNEY, UPPER POLE
+2022-03-25		Update	C93179	CDISC Definition	LOC	Anatomical Location	Update CDISC Definition	The lobe of the kidney located in the uppermost region of the kidney. (NCI)	The uppermost portion of the kidney.
+2022-03-25		Update	C93179	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Upper Pole of the Kidney
+2022-03-25		Update	C93179	CDISC Synonym	LOC	Anatomical Location	Remove CDISC Synonym	Upper Lobe of the Kidney	- - -
+2022-03-25		Update	C93180	CDISC Submission Value	LOC	Anatomical Location	Update CDISC Submission Value	KIDNEY, LOWER LOBE	KIDNEY, LOWER POLE
+2022-03-25		Update	C93180	CDISC Definition	LOC	Anatomical Location	Update CDISC Definition	The lobe of the kidney located in the lowest portion of the kidney. (NCI)	The lowermost portion of the kidney.
+2022-03-25		Update	C93180	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Lower Pole of the Kidney
+2022-03-25		Update	C93180	CDISC Synonym	LOC	Anatomical Location	Remove CDISC Synonym	Lower Lobe of the Kidney	- - -
+2022-03-25		Add	C97112	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	AORTIC BODY
+2022-03-25		Update	C97925	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Paraspinal Ganglion
+2022-03-25		Update	C97925	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Spinal Ganglion
+2022-03-25		Update	C103238	CDISC Synonym	LOC	Anatomical Location	Add new CDISC Synonym	- - -	Antecubital Region
+2022-03-25		Add	C128630	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	GLOTTIS, ANTERIOR COMMISSURE
+2022-03-25		Add	C129430	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ALISPHENOID PROCESS
+2022-03-25		Add	C161570	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	UTERINE HORN
+2022-03-25		Add	C164003	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	COLONIC MUCOSA
+2022-03-25		Add	C164004	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	MEDIASTINAL SOFT TISSUE
+2022-03-25		Add	C164006	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	NASAL SOFT TISSUE
+2022-03-25		Add	C164007	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PERI-ORBITAL SOFT TISSUE
+2022-03-25		Add	C164282	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	GLOTTIS, POSTERIOR COMMISSURE
+2022-03-25		Add	C165177	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ANAL SPHINCTER
+2022-03-25		Add	C165584	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTRAABDOMINAL LYMPH NODE
+2022-03-25		Add	C186100	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ADDUCTOR POLLICIS MUSCLE
+2022-03-25		Add	C186101	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ANCONEUS MUSCLE
+2022-03-25		Add	C186102	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ANORECTUM
+2022-03-25		Add	C186103	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	AORTICOPULMONARY SEPTUM
+2022-03-25		Add	C186104	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	ATRIOVENTRICULAR SEPTUM
+2022-03-25		Add	C186105	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	BASIOCCIPITAL BONE
+2022-03-25		Add	C186106	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	BASISPHENOID BONE
+2022-03-25		Add	C186107	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	BRONCHIAL STUMP
+2022-03-25		Add	C186108	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	CEREBELLAR LOBE
+2022-03-25		Add	C186109	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	DERMAL PAPILLAE OF THE FACE
+2022-03-25		Add	C186110	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXOCCIPITAL BONE
+2022-03-25		Add	C186111	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR DIGITI MINIMI MUSCLE
+2022-03-25		Add	C186112	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR HALLUCIS LONGUS MUSCLE
+2022-03-25		Add	C186113	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR INDICIS PROPRIUS MUSCLE
+2022-03-25		Add	C186114	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR POLLICIS BREVIS MUSCLE
+2022-03-25		Add	C186115	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	EXTENSOR POLLICIS LONGUS MUSCLE
+2022-03-25		Add	C186116	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FLEXOR POLLICIS BREVIS MUSCLE
+2022-03-25		Add	C186117	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FOREARM PRONATOR MUSCLES
+2022-03-25		Add	C186118	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FOREPAW PHALANX
+2022-03-25		Add	C186119	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	FRONTALIS MUSCLE
+2022-03-25		Add	C186120	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	HEART, VENTRICULAR CHAMBER
+2022-03-25		Add	C186121	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	HINDPAW PHALANX
+2022-03-25		Add	C186122	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	HIP FLEXOR MUSCLES
+2022-03-25		Add	C186123	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	INTERPARIETAL BONE
+2022-03-25		Add	C186124	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	KIDNEY INTERPOLAR REGION
+2022-03-25		Add	C186125	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	KNEE FLEXOR MUSCLES
+2022-03-25		Add	C186126	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	LUMBRICAL MUSCLES OF THE FOOT
+2022-03-25		Add	C186127	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	MENTALIS MUSCLE
+2022-03-25		Add	C186128	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	OROPHARYNGEAL SOFT TISSUE
+2022-03-25		Add	C186129	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PALATAL RUGAE
+2022-03-25		Add	C186130	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PARATRACHEAL LYMPH NODE, UPPER
+2022-03-25		Add	C186131	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PERIMENINGEAL SPACE
+2022-03-25		Add	C186132	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PERONEUS BREVIS MUSCLE
+2022-03-25		Add	C186133	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PLANTAR FLEXOR MUSCLES
+2022-03-25		Add	C186134	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PREMAXILLA BONE
+2022-03-25		Add	C186135	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	PRESPHENOID BONE
+2022-03-25		Add	C186136	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	RHOMBOID MAJOR MUSCLE
+2022-03-25		Add	C186137	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	RHOMBOID MINOR MUSCLE
+2022-03-25		Add	C186138	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SNOUT
+2022-03-25		Add	C186139	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SPINAL CORD PARENCHYMA
+2022-03-25		Add	C186140	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	STOMACH WALL
+2022-03-25		Add	C186141	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SUPINATOR MUSCLE
+2022-03-25		Add	C186142	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SUPRAOCCIPITAL BONE
+2022-03-25		Add	C186143	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	SUTURE
+2022-03-25		Add	C186144	Term	LOC	Anatomical Location	Add new term to existing codelist	- - -	WHISKERS
+2022-03-25		Update	C154834	CDISC Submission Value	MBTEST	Microbiology Test Name	Update CDISC Submission Value	Human Parainfluenza Type 1 Antigen	Human Parainfluenza Virus 1 Antigen
+2022-03-25		Update	C154834	CDISC Definition	MBTEST	Microbiology Test Name	Update CDISC Definition	A measurement of the Human Parainfluenza Type 1 antigen in a biological specimen.	A measurement of the Human parainfluenza virus 1 antigen in a biological specimen.
+2022-03-25		Update	C154834	CDISC Synonym	MBTEST	Microbiology Test Name	Add new CDISC Synonym	- - -	Human Parainfluenza Virus 1 Antigen
+2022-03-25		Update	C154834	CDISC Synonym	MBTEST	Microbiology Test Name	Add new CDISC Synonym	- - -	Human Respirovirus 1 Antigen
+2022-03-25		Update	C154834	CDISC Synonym	MBTEST	Microbiology Test Name	Remove CDISC Synonym	Human Parainfluenza Type 1 Antigen	- - -
+2022-03-25		Add	C186145	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Blastocystis hominis DNA
+2022-03-25		Add	C186146	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Bordetella parapertussis DNA
+2022-03-25		Add	C186147	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Campylobacter DNA
+2022-03-25		Add	C186148	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Campylobacter coli
+2022-03-25		Add	C186149	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Campylobacter jejuni
+2022-03-25		Add	C186150	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Cryptococcus neoformans/gattii DNA
+2022-03-25		Add	C186151	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Chlamydia trachomatis RNA
+2022-03-25		Add	C186152	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Dientamoeba fragilis DNA
+2022-03-25		Add	C186153	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Escherichia coli K1 DNA
+2022-03-25		Add	C186154	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Enterovirus RNA
+2022-03-25		Add	C186155	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Giardia DNA
+2022-03-25		Add	C186156	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Hepatitis D Virus RNA
+2022-03-25		Add	C186157	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Haemophilus influenzae DNA
+2022-03-25		Add	C186158	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Metapneumovirus Antigen
+2022-03-25		Add	C186159	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Parainfluenza Virus 1/2/3/4 RNA
+2022-03-25		Add	C186160	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Parainfluenza Virus 1/2/3 Antigen
+2022-03-25		Add	C186161	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Parainfluenza Virus 1/2/3 RNA
+2022-03-25		Add	C186162	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Parainfluenza Virus 1
+2022-03-25		Add	C186163	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Parainfluenza Virus 2 Antigen
+2022-03-25		Add	C186164	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Parainfluenza Virus 3 Antigen
+2022-03-25		Add	C186165	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human Papillomavirus E6/E7 mRNA
+2022-03-25		Add	C186166	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human rhinovirus A/B/C
+2022-03-25		Add	C186167	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Human rhinovirus A/B/C Antigen
+2022-03-25		Add	C186168	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Herpes Simplex Virus 1/2 Antigen
+2022-03-25		Add	C186169	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Herpes Simplex Virus 1 DNA
+2022-03-25		Add	C186170	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Herpes Simplex Virus 2 DNA
+2022-03-25		Add	C186171	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Legionella pneumophila
+2022-03-25		Add	C186172	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Legionella pneumophila DNA
+2022-03-25		Add	C186173	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Listeria monocytogenes DNA
+2022-03-25		Add	C186174	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Mycobacterium
+2022-03-25		Add	C186175	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Neisseria gonorrhoeae DNA
+2022-03-25		Add	C186176	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Neisseria gonorrhoeae RNA
+2022-03-25		Add	C186177	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Neisseria meningitidis DNA
+2022-03-25		Add	C186178	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Parechovirus RNA
+2022-03-25		Add	C186179	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Pneumocystis jiroveci Antigen
+2022-03-25		Add	C186180	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Rotavirus RNA
+2022-03-25		Add	C186181	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Respiratory Syncytial Virus RNA
+2022-03-25		Add	C186182	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Streptococcus agalactiae DNA
+2022-03-25		Add	C186183	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Salmonella DNA
+2022-03-25		Add	C186184	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Staphylococcus aureus DNA
+2022-03-25		Add	C186185	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Staphylococcus haemolyticus
+2022-03-25		Add	C186186	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Shigella/EIEC
+2022-03-25		Add	C186187	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Streptococcus pneumoniae DNA
+2022-03-25		Add	C186188	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	SARS-CoV-2 RdRp RNA
+2022-03-25		Add	C186189	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Trichomonas RNA
+2022-03-25		Add	C186190	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Trichomonas vaginalis DNA
+2022-03-25		Add	C186191	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Enterococcus, Vancomycin-resistant
+2022-03-25		Add	C186192	Term	MBTEST	Microbiology Test Name	Add new term to existing codelist	- - -	Varicella Zoster Virus DNA
+2022-03-25		Update	C154834	CDISC Definition	MBTESTCD	Microbiology Test Code	Update CDISC Definition	A measurement of the Human Parainfluenza Type 1 antigen in a biological specimen.	A measurement of the Human parainfluenza virus 1 antigen in a biological specimen.
+2022-03-25		Update	C154834	CDISC Synonym	MBTESTCD	Microbiology Test Code	Add new CDISC Synonym	- - -	Human Parainfluenza Virus 1 Antigen
+2022-03-25		Update	C154834	CDISC Synonym	MBTESTCD	Microbiology Test Code	Add new CDISC Synonym	- - -	Human Respirovirus 1 Antigen
+2022-03-25		Update	C154834	CDISC Synonym	MBTESTCD	Microbiology Test Code	Remove CDISC Synonym	Human Parainfluenza Type 1 Antigen	- - -
+2022-03-25		Add	C186145	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	BHODNA
+2022-03-25		Add	C186146	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	BPADNA
+2022-03-25		Add	C186147	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	CAMPYDNA
+2022-03-25		Add	C186148	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	CCO
+2022-03-25		Add	C186149	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	CJE
+2022-03-25		Add	C186150	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	CNEGADNA
+2022-03-25		Add	C186151	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	CTRRNA
+2022-03-25		Add	C186152	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	DFRDNA
+2022-03-25		Add	C186153	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	ECOK1DNA
+2022-03-25		Add	C186154	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	ENTRNA
+2022-03-25		Add	C186155	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	GIARDDNA
+2022-03-25		Add	C186156	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HDVRNA
+2022-03-25		Add	C186157	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HINDNA
+2022-03-25		Add	C186158	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HMPVAG
+2022-03-25		Add	C186159	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HP1234RN
+2022-03-25		Add	C186160	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HP123AG
+2022-03-25		Add	C186161	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HP123RNA
+2022-03-25		Add	C186162	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HPIV1
+2022-03-25		Add	C186163	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HPIV2AG
+2022-03-25		Add	C186164	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HPIV3AG
+2022-03-25		Add	C186165	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HPVE67MR
+2022-03-25		Add	C186166	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HRVABC
+2022-03-25		Add	C186167	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HRVABCAG
+2022-03-25		Add	C186168	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HS12AG
+2022-03-25		Add	C186169	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HS1DNA
+2022-03-25		Add	C186170	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	HS2DNA
+2022-03-25		Add	C186171	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	LPN
+2022-03-25		Add	C186172	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	LPNDNA
+2022-03-25		Add	C186173	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	LSMDNA
+2022-03-25		Add	C186174	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	MYCOBACT
+2022-03-25		Add	C186175	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	NGODNA
+2022-03-25		Add	C186176	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	NGORNA
+2022-03-25		Add	C186177	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	NMEDNA
+2022-03-25		Add	C186178	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	PARECRNA
+2022-03-25		Add	C186179	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	PJIAG
+2022-03-25		Add	C186180	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	ROTRNA
+2022-03-25		Add	C186181	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	RSVRNA
+2022-03-25		Add	C186182	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SAGDNA
+2022-03-25		Add	C186183	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SALMODNA
+2022-03-25		Add	C186184	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SAUDNA
+2022-03-25		Add	C186185	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SHA
+2022-03-25		Add	C186186	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SHIGEIEC
+2022-03-25		Add	C186187	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SPNDNA
+2022-03-25		Add	C186188	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	SR2RDRPR
+2022-03-25		Add	C186189	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	TRICHRNA
+2022-03-25		Add	C186190	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	TVADNA
+2022-03-25		Add	C186191	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	VRE
+2022-03-25		Add	C186192	Term	MBTESTCD	Microbiology Test Code	Add new term to existing codelist	- - -	VZVDNA
+2022-03-25		Update	C16553	CDISC Definition	METHOD	Method	Update CDISC Definition	An immunoassay for detecting and measuring antigens or antibodies in a solution; the solution is run over a surface to which immobilized antibodies specific to the substance have been attached, and if the substance is present, it will bind to the antibody layer, and its presence is verified and visualized with an application of antibodies that have been tagged in some way.	A type of enzyme immunoassay in which an antigen or antibody is bound to a solid substrate (e.g., microplate or beads) and interacts with an enzyme-linked antibody or antigen in solution.
+2022-03-25		Add	C16811	Term	METHOD	Method	Add new term to existing codelist	- - -	MAGNETOENCEPHALOGRAPHY
+2022-03-25		Update	C17204	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	CAT Scan
+2022-03-25		Update	C17204	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	Computed Axial Tomography
+2022-03-25		Update	C17204	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	Computerized Tomography
+2022-03-25		Update	C38056	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	EMG
+2022-03-25		Update	C75583	CDISC Definition	METHOD	Method	Update CDISC Definition	Examination of the anterior segment of the eye using a medical instrument called a slit lamp.	A method for examining the anterior segment of the eye using a slit lamp.
+2022-03-25		Update	C75583	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	Slit Lamp Biomicroscopy
+2022-03-25		Update	C75583	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	Slit Lamp Examination
+2022-03-25		Update	C121377	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	SWI MRI
+2022-03-25		Update	C121377	CDISC Synonym	METHOD	Method	Add new CDISC Synonym	- - -	SWI-Phase
+2022-03-25		Add	C121547	Term	METHOD	Method	Add new term to existing codelist	- - -	VISUAL ANALOG SCALE
+2022-03-25		Add	C186193	Term	METHOD	Method	Add new term to existing codelist	- - -	HAND-HELD DYNAMOMETRY
+2022-03-25		Add	C186194	Term	METHOD	Method	Add new term to existing codelist	- - -	MICROFLUIDIC IMMUNOASSAY
+2022-03-25		Add	C186195	Term	METHOD	Method	Add new term to existing codelist	- - -	TOURNIQUET TEST
+2022-03-25		Add	C186196	Term	METHOD	Method	Add new term to existing codelist	- - -	WALLACE RULE OF NINES
+2022-03-25		Update	C14218	CDISC Synonym	MICROORG	Microorganism	Add new CDISC Synonym	- - -	Herpes Simplex Virus 6
+2022-03-25		Update	C14245	CDISC Synonym	MICROORG	Microorganism	Add new CDISC Synonym	- - -	Mumps orthorubulavirus
+2022-03-25		Update	C14254	CDISC Definition	MICROORG	Microorganism	Update CDISC Definition	Any viral organism that can be assigned to the Human Parainfluenza virus 1 serotype.	Any viral organism that can be assigned to the species Human Parainfluenza virus 1.
+2022-03-25		Update	C112316	CDISC Definition	MICROORG	Microorganism	Update CDISC Definition	Any viral organism that can be assigned to the Human Parainfluenza virus 2 serotype.	Any viral organism that can be assigned to the species Human Parainfluenza virus 2.
+2022-03-25		Update	C112316	CDISC Synonym	MICROORG	Microorganism	Add new CDISC Synonym	- - -	Human orthorubulavirus 2
+2022-03-25		Update	C112317	CDISC Definition	MICROORG	Microorganism	Update CDISC Definition	Any viral organism that can be assigned to the Human Parainfluenza virus 3 serotype.	Any viral organism that can be assigned to the species Human Parainfluenza virus 3.
+2022-03-25		Update	C112318	CDISC Definition	MICROORG	Microorganism	Update CDISC Definition	Any viral organism that can be assigned to the Human Parainfluenza virus 4 serotype.	Any viral organism that can be assigned to the species Human Parainfluenza virus 4.
+2022-03-25		Update	C112318	CDISC Synonym	MICROORG	Microorganism	Add new CDISC Synonym	- - -	HPIV Type 4
+2022-03-25		Update	C112318	CDISC Synonym	MICROORG	Microorganism	Add new CDISC Synonym	- - -	Human orthorubulavirus 4
+2022-03-25		Update	C125641	CDISC Definition	MICROORG	Microorganism	Update CDISC Definition	Any viral organism that can be assigned to the Human Parainfluenza virus whose serotype is not identified.	Any viral organism that can be assigned to the species Human Parainfluenza virus 1, 2, 3 and/or 4.
+2022-03-25		Add	C186197	Term	MICROORG	Microorganism	Add new term to existing codelist	- - -	ESCHERICHIA COLI K1
+2022-03-25		Add	C186198	Term	MICROORG	Microorganism	Add new term to existing codelist	- - -	PARECHOVIRUS
+2022-03-25		Add	C186199	Term	MIFTSDTL	Microscopic Findings Test Details	Add new term to existing codelist	- - -	STAINING INTENSITY 0
+2022-03-25		Add	C186200	Term	MIFTSDTL	Microscopic Findings Test Details	Add new term to existing codelist	- - -	STAINING INTENSITY 1+
+2022-03-25		Add	C186201	Term	MIFTSDTL	Microscopic Findings Test Details	Add new term to existing codelist	- - -	STAINING INTENSITY 2+
+2022-03-25		Add	C186202	Term	MIFTSDTL	Microscopic Findings Test Details	Add new term to existing codelist	- - -	STAINING INTENSITY 3+
+2022-03-25		Update	C123556	CDISC Submission Value	MITS	SDTM Microscopic Findings Test Name	Update CDISC Submission Value	Cancer Cellularity	Neoplastic Cells/Total Cells
+2022-03-25		Update	C123556	CDISC Synonym	MITS	SDTM Microscopic Findings Test Name	Add new CDISC Synonym	- - -	Neoplastic Cells/Total Cells
+2022-03-25		Add	C185932	Term	MITS	SDTM Microscopic Findings Test Name	Add new term to existing codelist	- - -	MMR Proteins
+2022-03-25		Add	C186203	Term	MITS	SDTM Microscopic Findings Test Name	Add new term to existing codelist	- - -	MutL Homolog 3
+2022-03-25		Add	C186204	Term	MITS	SDTM Microscopic Findings Test Name	Add new term to existing codelist	- - -	MutS Homolog 3
+2022-03-25		Add	C186205	Term	MITS	SDTM Microscopic Findings Test Name	Add new term to existing codelist	- - -	Tumor Protein p53
+2022-03-25		Add	C186206	Term	MITS	SDTM Microscopic Findings Test Name	Add new term to existing codelist	- - -	PMS1 Homolog 1
+2022-03-25		Update	C123556	CDISC Submission Value	MITSCD	SDTM Microscopic Findings Test Code	Update CDISC Submission Value	CANCLLTY	NEOCECE
+2022-03-25		Update	C123556	CDISC Synonym	MITSCD	SDTM Microscopic Findings Test Code	Add new CDISC Synonym	- - -	Neoplastic Cells/Total Cells
+2022-03-25		Add	C185932	Term	MITSCD	SDTM Microscopic Findings Test Code	Add new term to existing codelist	- - -	MMRPROT
+2022-03-25		Add	C186203	Term	MITSCD	SDTM Microscopic Findings Test Code	Add new term to existing codelist	- - -	MLH3
+2022-03-25		Add	C186204	Term	MITSCD	SDTM Microscopic Findings Test Code	Add new term to existing codelist	- - -	MSH3
+2022-03-25		Add	C186205	Term	MITSCD	SDTM Microscopic Findings Test Code	Add new term to existing codelist	- - -	P53
+2022-03-25		Add	C186206	Term	MITSCD	SDTM Microscopic Findings Test Code	Add new term to existing codelist	- - -	PMS1
+2022-03-25		Add	C15421	Term	MPSTATRS	Menopause Status Response	Add new term to new codelist	- - -	POSTMENOPAUSAL
+2022-03-25		Add	C15491	Term	MPSTATRS	Menopause Status Response	Add new term to new codelist	- - -	PREMENOPAUSAL
+2022-03-25		Add	C15692	Term	MPSTATRS	Menopause Status Response	Add new term to new codelist	- - -	PERIMENOPAUSAL
+2022-03-25		Add	C185847	CDISC Codelist	MPSTATRS	Menopause Status Response	Addition of new codelist	- - -	MPSTATRS
+2022-03-25		Update	C85561	CDISC Definition	MSRESCAT	Microbiology Susceptibility Testing Result Category	Update CDISC Definition	A category used for microorganisms that have only a susceptible interpretive criteria, but not an intermediate or resistant interpretive category (i.e., susceptible-only interpretive category). This category may be applied to new antimicrobial agents for which no resistant microorganisms have been encountered at the time the initial interpretive criteria are determined. Microorganisms that test with an MIC above or a zone measurement below the susceptible interpretive criteria are designated as nonsusceptible. A designation of nonsusceptible does not necessarily mean that a resistance mechanism(s) exists in the microorganism.	A category used for microorganisms that have only a susceptible interpretive category, but not an intermediate or resistant interpretive category (i.e., susceptible-only interpretive category). This category may be applied to new antimicrobial agents for which no resistant microorganisms have been encountered at the time the initial interpretive criteria are determined. Microorganisms that test with an MIC above or a zone measurement below the susceptible interpretive criteria are designated as nonsusceptible. A designation of nonsusceptible does not necessarily mean that a resistance mechanism(s) exists in the microorganism.
+2022-03-25		Add	C186207	Term	MSRESCAT	Microbiology Susceptibility Testing Result Category	Add new term to existing codelist	- - -	NOT SUSCEPTIBLE
+2022-03-25		Update	C49634	CDISC Definition	NCOMPLT	Completion/Reason for Non-Completion	Update CDISC Definition	An indication that a study participant has removed themself from the study or from one or more segments of the study.	The subject-initiated act of discontinuing participation in the study as a whole or one or more aspects of the study (e.g., a study period or use of biospecimens).
+2022-03-25		Update	C49634	CDISC Synonym	NCOMPLT	Completion/Reason for Non-Completion	Add new CDISC Synonym	- - -	Dropout
+2022-03-25		Update	C161410	CDISC Definition	NCOMPLT	Completion/Reason for Non-Completion	Update CDISC Definition	An indication that the study subject was removed from the study or from one or more segments of the study at the sponsor's request.	An indication that the study subject was removed from the study or from one or more segments of the study (e.g., treatment epoch, long-term follow-up epoch) at the sponsor's request.
+2022-03-25		Update	C176342	CDISC Definition	NCOMPLT	Completion/Reason for Non-Completion	Update CDISC Definition	An indication that the consent to participate in the study or one or more segments of the study has been revoked.	An indication that the consent to participate in the study, or one or more components of the study, has been revoked.
+2022-03-25		Add	C186208	Term	OTHEVENT	Other Disposition Event Response	Add new term to existing codelist	- - -	SITE TRANSFER
+2022-03-25		Update	C105467	CDISC Definition	PKUDMG	PK Units of Measure - Dose mg	Update CDISC Definition	Hours times micrograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).	Hour times nanograms per milliliter (area under the curve), divided by micrograms per kilogram per day (daily dose normalized by body weight), or hour times micrograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).
+2022-03-25		Update	C105467	CDISC Synonym	PKUDMG	PK Units of Measure - Dose mg	Add new CDISC Synonym	- - -	h*ng/mL/(ug/kg/day)
+2022-03-25		Update	C105467	CDISC Synonym	PKUDMG	PK Units of Measure - Dose mg	Add new CDISC Synonym	- - -	h*ug/mL/(mg/kg/day)
+2022-03-25		Add	C105467	Term	PKUDUG	PK Units of Measure - Dose ug	Add new term to existing codelist	- - -	h*ng/mL/(ug/kg/day)
+2022-03-25		Update	C105467	CDISC Definition	PKUNIT	PK Units of Measure	Update CDISC Definition	Hours times micrograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).	Hour times nanograms per milliliter (area under the curve), divided by micrograms per kilogram per day (daily dose normalized by body weight), or hour times micrograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).
+2022-03-25		Update	C105467	CDISC Synonym	PKUNIT	PK Units of Measure	Add new CDISC Synonym	- - -	h*ng/mL/(ug/kg/day)
+2022-03-25		Update	C105467	CDISC Synonym	PKUNIT	PK Units of Measure	Add new CDISC Synonym	- - -	h*ug/mL/(mg/kg/day)
+2022-03-25		Update	C17204	CDISC Synonym	PROCEDUR	Procedure	Add new CDISC Synonym	- - -	CAT Scan
+2022-03-25		Update	C17204	CDISC Synonym	PROCEDUR	Procedure	Add new CDISC Synonym	- - -	Computed Axial Tomography
+2022-03-25		Update	C17204	CDISC Synonym	PROCEDUR	Procedure	Add new CDISC Synonym	- - -	Computerized Tomography
+2022-03-25		Add	C99546	Term	PROCEDUR	Procedure	Add new term to existing codelist	- - -	HEART VALVE PROCEDURE
+2022-03-25		Add	C157960	Term	PROCEDUR	Procedure	Add new term to existing codelist	- - -	POSITIVE AIRWAY PRESSURE VENTILATION
+2022-03-25		Add	C186210	Term	PROTMLST	Protocol Milestone	Add new term to existing codelist	- - -	DECLINED TO CONTINUE INTO NEXT TRIAL ELEMENT
+2022-03-25		Add	C186211	Term	PROTMLST	Protocol Milestone	Add new term to existing codelist	- - -	OPTED TO CONTINUE INTO NEXT TRIAL ELEMENT
+2022-03-25		Add	C186212	Term	PROTMLST	Protocol Milestone	Add new term to existing codelist	- - -	RE-RANDOMIZED
+2022-03-25		Update	C100772	CDISC Definition	QSCAT	Category of Questionnaire	Update CDISC Definition	Neuropsychiatric Inventory (NPI) (copyright JL Cummings, 1994, all rights reserved; permission for commercial use required; npiTEST.net).	Neuropsychiatric Inventory (NPI) (copyright JL Cummings, 1994, all rights reserved; permission for commercial use required; npiTEST.net). No part of the NPI may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the JL Cummings and payment of any applicable fees. Copyright JL Cummings, 1994, all rights reserved.
+2022-03-25		Update	C100772	NCI Preferred Term	QSCAT	Category of Questionnaire	Update NCI Preferred Term	Neuropsychiatric Inventory Questionnaire	Neuropsychiatric Inventory - 12 Item Version Questionnaire
+2022-03-25		Update	C100772	CDISC Synonym	QSCAT	Category of Questionnaire	Add new CDISC Synonym	- - -	NPI-12
+2022-03-25		Add	C185761	Term	QSCAT	Category of Questionnaire	Add new term to existing codelist	- - -	SF6D V2.0 ACUTE
+2022-03-25		Add	C185762	Term	QSCAT	Category of Questionnaire	Add new term to existing codelist	- - -	SF6D V2.0 STANDARD
+2022-03-25		Add	C186213	Term	RPTEST	Reproductive System Findings Test Name	Add new term to existing codelist	- - -	Pregnancy Suspected Indicator
+2022-03-25		Add	C186213	Term	RPTESTCD	Reproductive System Findings Test Code	Add new term to existing codelist	- - -	PSUSPIND
+2022-03-25		Add	C186214	Term	SCTEST	Subject Characteristic Test Name	Add new term to existing codelist	- - -	Fertility Status
+2022-03-25		Add	C186214	Term	SCTESTCD	Subject Characteristic Test Code	Add new term to existing codelist	- - -	FRTLSTAT
+2022-03-25		Add	C185787	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36334
+2022-03-25		Add	C185788	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36335
+2022-03-25		Add	C185789	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36336
+2022-03-25		Add	C185790	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36337
+2022-03-25		Add	C185787	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score UK Weights
+2022-03-25		Add	C185788	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score CN Weights
+2022-03-25		Add	C185789	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score AU Weights
+2022-03-25		Add	C185790	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score US Weights
+2022-03-25		Add	C185783	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36434
+2022-03-25		Add	C185784	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36435
+2022-03-25		Add	C185785	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36436
+2022-03-25		Add	C185786	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36437
+2022-03-25		Add	C185783	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score UK Weights
+2022-03-25		Add	C185784	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score CN Weights
+2022-03-25		Add	C185785	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score AU Weights
+2022-03-25		Add	C185786	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score US Weights
+2022-03-25		Add	C185742	CDISC Codelist	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Addition of new codelist	- - -	SF6D1TC
+2022-03-25		Add	C185773	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D101
+2022-03-25		Add	C185774	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D102
+2022-03-25		Add	C185775	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D103
+2022-03-25		Add	C185776	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D104
+2022-03-25		Add	C185777	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D105
+2022-03-25		Add	C185778	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D106
+2022-03-25		Add	C185779	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D107
+2022-03-25		Add	C185780	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D108
+2022-03-25		Add	C185781	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D109
+2022-03-25		Add	C185782	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D110
+2022-03-25		Add	C185741	CDISC Codelist	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Addition of new codelist	- - -	SF6D1TN
+2022-03-25		Add	C185773	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Health Limit Physical Activities
+2022-03-25		Add	C185774	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Accomplished Less Due to Problems
+2022-03-25		Add	C185775	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-How Much Bodily Pain Have You Had
+2022-03-25		Add	C185776	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Time Have You Felt Worn Out
+2022-03-25		Add	C185777	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Interfered With Social Activities
+2022-03-25		Add	C185778	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Time Felt Depressed/Very Nervous
+2022-03-25		Add	C185779	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score UK Weights
+2022-03-25		Add	C185780	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score CN Weights
+2022-03-25		Add	C185781	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score AU Weights
+2022-03-25		Add	C185782	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score US Weights
+2022-03-25		Add	C185740	CDISC Codelist	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Addition of new codelist	- - -	SF6D2TC
+2022-03-25		Add	C185763	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D201
+2022-03-25		Add	C185764	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D202
+2022-03-25		Add	C185765	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D203
+2022-03-25		Add	C185766	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D204
+2022-03-25		Add	C185767	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D205
+2022-03-25		Add	C185768	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D206
+2022-03-25		Add	C185769	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D207
+2022-03-25		Add	C185770	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D208
+2022-03-25		Add	C185771	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D209
+2022-03-25		Add	C185772	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D210
+2022-03-25		Add	C185739	CDISC Codelist	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Addition of new codelist	- - -	SF6D2TN
+2022-03-25		Add	C185763	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Health Limit Physical Activities
+2022-03-25		Add	C185764	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Accomplished Less Due to Problems
+2022-03-25		Add	C185765	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-How Much Bodily Pain Have You Had
+2022-03-25		Add	C185766	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Time Have You Felt Worn Out
+2022-03-25		Add	C185767	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Interfered With Social Activities
+2022-03-25		Add	C185768	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Time Felt Depressed/Very Nervous
+2022-03-25		Add	C185769	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utililty Index Score UK Weights
+2022-03-25		Add	C185770	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utility Index Score CN Weights
+2022-03-25		Add	C185771	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utility Index Score AU Weights
+2022-03-25		Add	C185772	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utility Index Score US Weights
+2022-03-25		Add	C12530	Term	SPECTYPE	Specimen Type	Add new term to existing codelist	- - -	GRANULOCYTE
+2022-03-25		Add	C12535	Term	SPECTYPE	Specimen Type	Add new term to existing codelist	- - -	LYMPHOCYTE
+2022-03-25		Add	C12536	Term	SPECTYPE	Specimen Type	Add new term to existing codelist	- - -	NATURAL KILLER CELL
+2022-03-25		Add	C186215	Term	SSTEST	Subject Status Test Name	Add new term to existing codelist	- - -	Follow-Up Availability Status
+2022-03-25		Add	C186215	Term	SSTESTCD	Subject Status Test Code	Add new term to existing codelist	- - -	FUAVSTAT
+2022-03-25		Add	C186216	Term	TRTEST	Tumor or Lesion Properties Test Name	Add new term to existing codelist	- - -	Lesion Thickness
+2022-03-25		Add	C186216	Term	TRTESTCD	Tumor or Lesion Properties Test Code	Add new term to existing codelist	- - -	LESTHICK
+2022-03-25		Add	C186217	Term	TUTEST	Tumor or Lesion Identification Test Name	Add new term to existing codelist	- - -	Bone Tumors Indicator
+2022-03-25		Add	C186218	Term	TUTEST	Tumor or Lesion Identification Test Name	Add new term to existing codelist	- - -	Extramedullary Disease Indicator
+2022-03-25		Add	C186217	Term	TUTESTCD	Tumor or Lesion Identification Test Code	Add new term to existing codelist	- - -	TUBNIND
+2022-03-25		Add	C186218	Term	TUTESTCD	Tumor or Lesion Identification Test Code	Add new term to existing codelist	- - -	TUEXMIND
+2022-03-25		Update	C68667	CDISC Synonym	UNIT	Unit	Add new CDISC Synonym	- - -	Degrees
+2022-03-25		Remove	C101687	Term	UNIT	Unit	Remove term entirely from codelist	NEEDLE GAUGE	- - -
+2022-03-25		Add	C111984	Term	UNIT	Unit	Add new term to existing codelist	- - -	PUMP
+2022-03-25		Add	C122634	Term	UNIT	Unit	Add new term to existing codelist	- - -	PILL
+2022-03-25		Add	C166082	Term	UNIT	Unit	Add new term to existing codelist	- - -	ngEq/g
+2022-03-25		Add	C184705	Term	UNIT	Unit	Add new term to existing codelist	- - -	ngEq
+2022-03-25		Add	C186219	Term	UNIT	Unit	Add new term to existing codelist	- - -	APS U/mL
+2022-03-25		Add	C186220	Term	UNIT	Unit	Add new term to existing codelist	- - -	ENVELOPE
+2022-03-25		Add	C186221	Term	UNIT	Unit	Add new term to existing codelist	- - -	GPS U/mL
+2022-03-25		Add	C186222	Term	UNIT	Unit	Add new term to existing codelist	- - -	GUMMY
+2022-03-25		Add	C186223	Term	UNIT	Unit	Add new term to existing codelist	- - -	MPS U/mL
+2022-03-25		Add	C186224	Term	UNIT	Unit	Add new term to existing codelist	- - -	Therapeutic Cells/m2

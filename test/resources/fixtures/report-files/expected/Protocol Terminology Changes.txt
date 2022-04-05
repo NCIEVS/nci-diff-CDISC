@@ -1,0 +1,15 @@
+Release Date	Request Code	Change Type	NCI Code	CDISC Term Type	CDISC Codelist (Short Name)	CDISC Codelist (Long Name)	Change Summary	Original	New	Change Implementation Instructions
+2022-03-25		Add	C142444	Term	Protocol Entity Terminology	Protocol Entity Terminology	Add new term to existing codelist	- - -	Study Subject Discontinuation
+2022-03-25		Add	C142738	Term	Protocol Entity Terminology	Protocol Entity Terminology	Add new term to existing codelist	- - -	Subject Replacement
+2022-03-25		Add	C185851	CDISC Codelist	Study Subject Discontinuation Attribute Terminology	Study Subject Discontinuation Attribute Terminology	Addition of new codelist	- - -	Study Subject Discontinuation Attribute Terminology
+2022-03-25		Add	C49627	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Reason for Study Discontinuation
+2022-03-25		Add	C49634	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	PROT-Attr Subject Replacement
+2022-03-25		Add	C185850	CDISC Codelist	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Addition of new codelist	- - -	Subject Replacement Attribute Terminology
+2022-03-25		Add	C185956	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Conditions of Subject Withdrawal
+2022-03-25		Add	C185957	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Follow-up for Withdrawn Subject
+2022-03-25		Add	C185958	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Lost to Follow-up Criteria
+2022-03-25		Add	C185959	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Reason for Subject Withdrawal from Study
+2022-03-25		Add	C185960	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Study Subject Discontinuation Criteria
+2022-03-25		Add	C185961	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Subject Discontinuation Process
+2022-03-25		Add	C185962	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Subject Replacement Criteria
+2022-03-25		Add	C185963	Term	Subject Replacement Attribute Terminology	Subject Replacement Attribute Terminology	Add new term to new codelist	- - -	Subject Replacement Statement

@@ -1,0 +1,66 @@
+Release Date	Request Code	Change Type	NCI Code	CDISC Term Type	CDISC Codelist (Short Name)	CDISC Codelist (Long Name)	Change Summary	Original	New	Change Implementation Instructions
+2022-03-25		Update	C100772	CDISC Definition	QSCAT	Category of Questionnaire	Update CDISC Definition	Neuropsychiatric Inventory (NPI) (copyright JL Cummings, 1994, all rights reserved; permission for commercial use required; npiTEST.net).	Neuropsychiatric Inventory (NPI) (copyright JL Cummings, 1994, all rights reserved; permission for commercial use required; npiTEST.net). No part of the NPI may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the JL Cummings and payment of any applicable fees. Copyright JL Cummings, 1994, all rights reserved.
+2022-03-25		Update	C100772	NCI Preferred Term	QSCAT	Category of Questionnaire	Update NCI Preferred Term	Neuropsychiatric Inventory Questionnaire	Neuropsychiatric Inventory - 12 Item Version Questionnaire
+2022-03-25		Update	C100772	CDISC Synonym	QSCAT	Category of Questionnaire	Add new CDISC Synonym	- - -	NPI-12
+2022-03-25		Add	C185761	Term	QSCAT	Category of Questionnaire	Add new term to existing codelist	- - -	SF6D V2.0 ACUTE
+2022-03-25		Add	C185762	Term	QSCAT	Category of Questionnaire	Add new term to existing codelist	- - -	SF6D V2.0 STANDARD
+2022-03-25		Add	C185787	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36334
+2022-03-25		Add	C185788	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36335
+2022-03-25		Add	C185789	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36336
+2022-03-25		Add	C185790	Term	SF363TC	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36337
+2022-03-25		Add	C185787	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score UK Weights
+2022-03-25		Add	C185788	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score CN Weights
+2022-03-25		Add	C185789	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score AU Weights
+2022-03-25		Add	C185790	Term	SF363TN	The Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF363-Utility Index Score US Weights
+2022-03-25		Add	C185783	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36434
+2022-03-25		Add	C185784	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36435
+2022-03-25		Add	C185785	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36436
+2022-03-25		Add	C185786	Term	SF364TC	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Code	Add new term to existing codelist	- - -	SF36437
+2022-03-25		Add	C185783	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score UK Weights
+2022-03-25		Add	C185784	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score CN Weights
+2022-03-25		Add	C185785	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score AU Weights
+2022-03-25		Add	C185786	Term	SF364TN	The Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire Test Name	Add new term to existing codelist	- - -	SF364-Utility Index Score US Weights
+2022-03-25		Add	C185742	CDISC Codelist	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Addition of new codelist	- - -	SF6D1TC
+2022-03-25		Add	C185773	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D101
+2022-03-25		Add	C185774	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D102
+2022-03-25		Add	C185775	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D103
+2022-03-25		Add	C185776	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D104
+2022-03-25		Add	C185777	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D105
+2022-03-25		Add	C185778	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D106
+2022-03-25		Add	C185779	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D107
+2022-03-25		Add	C185780	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D108
+2022-03-25		Add	C185781	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D109
+2022-03-25		Add	C185782	Term	SF6D1TC	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D110
+2022-03-25		Add	C185741	CDISC Codelist	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Addition of new codelist	- - -	SF6D1TN
+2022-03-25		Add	C185773	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Health Limit Physical Activities
+2022-03-25		Add	C185774	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Accomplished Less Due to Problems
+2022-03-25		Add	C185775	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-How Much Bodily Pain Have You Had
+2022-03-25		Add	C185776	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Time Have You Felt Worn Out
+2022-03-25		Add	C185777	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Interfered With Social Activities
+2022-03-25		Add	C185778	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Time Felt Depressed/Very Nervous
+2022-03-25		Add	C185779	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score UK Weights
+2022-03-25		Add	C185780	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score CN Weights
+2022-03-25		Add	C185781	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score AU Weights
+2022-03-25		Add	C185782	Term	SF6D1TN	SF-6Dv2 Health Utility Survey Standard, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D1-Utility Index Score US Weights
+2022-03-25		Add	C185740	CDISC Codelist	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Addition of new codelist	- - -	SF6D2TC
+2022-03-25		Add	C185763	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D201
+2022-03-25		Add	C185764	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D202
+2022-03-25		Add	C185765	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D203
+2022-03-25		Add	C185766	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D204
+2022-03-25		Add	C185767	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D205
+2022-03-25		Add	C185768	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D206
+2022-03-25		Add	C185769	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D207
+2022-03-25		Add	C185770	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D208
+2022-03-25		Add	C185771	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D209
+2022-03-25		Add	C185772	Term	SF6D2TC	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Code	Add new term to new codelist	- - -	SF6D210
+2022-03-25		Add	C185739	CDISC Codelist	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Addition of new codelist	- - -	SF6D2TN
+2022-03-25		Add	C185763	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Health Limit Physical Activities
+2022-03-25		Add	C185764	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Accomplished Less Due to Problems
+2022-03-25		Add	C185765	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-How Much Bodily Pain Have You Had
+2022-03-25		Add	C185766	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Time Have You Felt Worn Out
+2022-03-25		Add	C185767	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Interfered With Social Activities
+2022-03-25		Add	C185768	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Time Felt Depressed/Very Nervous
+2022-03-25		Add	C185769	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utililty Index Score UK Weights
+2022-03-25		Add	C185770	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utility Index Score CN Weights
+2022-03-25		Add	C185771	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utility Index Score AU Weights
+2022-03-25		Add	C185772	Term	SF6D2TN	SF-6Dv2 Health Utility Survey Acute, English Version 2.0 Questionnaire Test Name	Add new term to new codelist	- - -	SF6D2-Utility Index Score US Weights
