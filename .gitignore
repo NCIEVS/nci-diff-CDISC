@@ -1,2 +1,5 @@
 dist/
 classes/
+/nci-diff-CDISC.iml
+/.idea/
+/out/

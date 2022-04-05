@@ -1,0 +1,1 @@
+Release Date	Request Code	Change Type	NCI Code	CDISC Term Type	CDISC Codelist (Short Name)	CDISC Codelist (Long Name)	Change Summary	Original	New	Change Implementation Instructions
